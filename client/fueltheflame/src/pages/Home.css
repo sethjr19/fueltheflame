@@ -1,0 +1,4 @@
+.home-bg{
+    background: rgb(175,0,255);
+    background: linear-gradient(90deg, rgba(175,0,255,1) 0%, rgba(159,18,56,1) 0%, rgba(24,9,121,1) 0%, rgba(2,0,36,1) 94%);
+}
